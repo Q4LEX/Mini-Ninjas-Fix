@@ -1,5 +1,5 @@
 # Mini-Ninjas-Fix
-Small executable to fix the HID-Device polling issue, making the game playable again.
+Small executable to fix the HI-Device polling issue, making the game playable again.
 
 ## VERIFY GAME FILES
 At first make sure your game files are valid. Verify their integrity using Steam. <br>
